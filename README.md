@@ -1,8 +1,3 @@
----
-name: "Github Portfolio"
-filetype: "markdown"
----
-
 # Hello, I'm Ankit Borkar 😀
 <a href="https://www.linkedin.com/in/ankit-borkar-056552191/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -13,6 +8,11 @@ I am a results-driven cybersecurity professional with expertise in digital foren
 
 ## 🎯 Objective
 To apply my skills in cybersecurity, digital forensics, and security automation in a **Security Operations Center (SOC) as a Tier 1 Analyst**, focusing on threat detection, incident response, and automation.
+
+---
+
+## 🏆 Awards & Recognitions
+- **Oxygen Forensics Professional Development Award** - Recognized for expertise in mobile forensics and digital investigations.
 
 ---
 
